@@ -5,7 +5,7 @@ Codewars is a new way to train and learn many programming languages. Codewars ph
 
 >like a coding dojo - where developers train with each other and help each other get better through practice.      [Codewars Wiki](https://github.com/codewars/codewars.com/wiki/About-Codewars)
 
-<a href=https://www.codewars.com/users/TehOrange>My</a> current codewars rank:
+My current codewars rank:
 <br>
 <img src=https://www.codewars.com/users/kerzer42/badges/small>
 <br>
