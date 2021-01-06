@@ -8,6 +8,7 @@ GitHub     | Codewars
   :six: <a href=https://cutt.ly/bjgeq1h>Bouncing Balls</a>   | <a href=https://cutt.ly/UjgewtK>Link</a>   
  :seven: <a href=https://cutt.ly/qjgwNzr>Balanced Number (Special Numbers Series #1 )</a> | <a href=https://cutt.ly/UjgwVNi>Link</a> 
   :seven: <a href=https://cutt.ly/8jgw6V7>Sum of two lowest positive integers</a>    | <a href=https://cutt.ly/BjgeqzD>Link</a>   
+  :seven: <a href=https://github.com/rtelnow/CodeWars/tree/main/Sum%20of%20all%20the%20multiples%20of%203%20or%205.playground>Sum of all the multiples of 3 or 5</a>    | <a href = https://www.codewars.com/kata/57f36495c0bb25ecf50000e7>Link</a>   
   :eight: <a href=https://cutt.ly/tjgw1uY>Reversed sequence</a>      | <a href=https://cutt.ly/Ajgw1Ly>Link</a>   
    :eight: <a href=https://cutt.ly/Rjgw0Pe>Calculate BMI</a>  | <a href=https://cutt.ly/1jgw96k>Link</a> 
  :eight: <a href=https://cutt.ly/6jgw3vi>Expressions Matter</a> |<a href=https://cutt.ly/3jgw8tC>Link</a> 
