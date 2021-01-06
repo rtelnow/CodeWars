@@ -16,3 +16,5 @@ Rank     | Description
 3kyu, 4kyu    | Competent
 5kyu, 6kyu     | Novice
 7kyu, 8kyu |Beginner
+
+<a href=SolvedKataList.md>Solved Kata list with link on Codewars!</a>
